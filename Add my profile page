@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mai Ashour - Basira</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f5f5f5;
+      text-align: center;
+      padding: 40px 20px;
+    }
+    .container {
+      background: #fff;
+      border-radius: 20px;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+      padding: 30px;
+      max-width: 500px;
+      margin: auto;
+    }
+    img {
+      border-radius: 50%;
+      width: 150px;
+      height: 150px;
+      object-fit: cover;
+    }
+    h1 {
+      margin: 20px 0 10px;
+      font-size: 28px;
+      color: #333;
+    }
+    h2 {
+      margin: 0 0 20px;
+      font-size: 18px;
+      color: #777;
+    }
+    .button {
+      display: block;
+      width: 100%;
+      margin: 10px 0;
+      padding: 12px;
+      font-size: 16px;
+      text-decoration: none;
+      color: #fff;
+      background-color: #007bff;
+      border-radius: 10px;
+      transition: background-color 0.3s;
+    }
+    .button:hover {
+      background-color: #0056b3;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <img src="profile.jpg" alt="Mai Ashour">
+    <h1>Mai Ashour</h1>
+    <h2>Consultancy and Life Coach | Brand: Basira-بصيره</h2>
+
+    <a class="button" href="https://web.facebook.com/maiashourlifecoach" target="_blank">Facebook Page (Mai Ashour)</a>
+    <a class="button" href="https://www.instagram.com/basiraa45?igsh=Y3oxNW50Nmk2MzZ4" target="_blank">Instagram (Basiraa)</a>
+    <a class="button" href="https://docs.google.com/forms/d/e/1FAIpQLSdXvPKR2orOW-Y7f86j7EKUvGMru3zfDFn9RbCJjM_qNvA44A/viewform" target="_blank">Google Form (Train The Coach)</a>
+    <a class="button" href="https://www.instagram.com/maiashour7?igsh=MWlpZTQxMDU3Z3VwZw==" target="_blank">Instagram (Mai Ashour)</a>
+    <a class="button" href="https://www.facebook.com/share/1BCuh4deqV/" target="_blank">Facebook Page (Basira-بصيره)</a>
+    <a class="button" href="https://web.facebook.com/profile.php?id=61574468312535" target="_blank">Facebook Profile</a>
+  </div>
+</body>
+</html>
